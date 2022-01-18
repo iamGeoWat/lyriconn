@@ -7,3 +7,5 @@
 - https://developer.apple.com/forums/thread/698127?login=true&r_s_legacy=true
 - https://feedbackassistant.apple.com/feedback/9848254
 - https://mojim.com/cnzsitemap.htm
+
+- good one https://github.com/ddddxxx/LyricsKit
