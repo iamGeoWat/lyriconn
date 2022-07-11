@@ -1,5 +1,8 @@
 # lyriconn
 
+> :warning: **This project is on hold and pending API availability**
+ 
+
 ## docs
 - ios share extension with Swift https://medium.com/macoclock/ios-share-extension-swift-5-1-1606263746b
 - https://github.com/farshed/genius-lyrics-api
